@@ -8,7 +8,7 @@
    ->multi feature linear regression 
    
  2.Decission tree (Basic how to work )
- 
+
    ->simple synthetic data set use apply DT 
 
    ->plot decision tree 
@@ -28,6 +28,14 @@
    ->basic logistic regression
 
    ->Breast data set too apply Logistic regression then show the hole data set and 
+
+   ->Basic metrics at default threshold 0.5
+
+   ->Try different thresholds and see how precision and recall change
+
+   ->Plot precision and recall vs threshold
+
+   ->Two models with different regularization strengths
   
 
 
