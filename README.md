@@ -36,6 +36,10 @@
    ->Plot precision and recall vs threshold
 
    ->Two models with different regularization strengths
+
+
+  4.Support Vector Machine 
+    
   
 
 
