@@ -40,6 +40,28 @@
 
   4.Support Vector Machine 
     
+    ->Generate a simple linearly separable dataset and SVC and plot with a helper function 
+
+    ->Kernels: Linear, Polynomial, and RBF
+
+    ->Polynomial kernel on moons,RBF kernel on moons
+
+    ->SVM Classification on Real Data (Breast Cancer Dataset)
+
+    -> Effect of Hyperparameters C and gamma
+
+    ->Introduction to Support Vector Regression (SVR)
+
+    ->Train an SVR with RBF kernel
+
+    ->
+
+    ->
+
+    ->>
+
+    ->>
+
   
 
 
