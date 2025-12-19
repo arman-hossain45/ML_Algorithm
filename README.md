@@ -54,7 +54,7 @@
 
     ->Train an SVR with RBF kernel
 
-    ->
+    ->Support vector regressor
 
     ->
 
