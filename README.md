@@ -56,11 +56,12 @@
 
     ->Support vector regressor
 
-    ->
+    ->Epsilon nad its basic how it work
 
-    ->>
+    ->> SVR on Real Data (Diabetes Dataset)
 
-    ->>
+  5. Naive Bayes
+    
 
   
 
