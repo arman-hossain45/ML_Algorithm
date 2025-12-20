@@ -65,6 +65,14 @@
 
      ->Part B – Multinomial Naive Bayes on Text Data
 
+     ->colab link here is the data and 
+     
+       newspaper group model you find 
+
+       https://colab.research.google.com/drive/19357JjkXhiu554T-UQLATSCY7rqWOWOF
+
+       
+
   
     
 
