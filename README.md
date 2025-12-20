@@ -60,7 +60,12 @@
 
     ->> SVR on Real Data (Diabetes Dataset)
 
-  5. Naive Bayes
+  5.Naive Bayes
+     ->Part A – Gaussian Naive Bayes on a Numeric Dataset
+
+     ->Part B – Multinomial Naive Bayes on Text Data
+
+  
     
 
   
