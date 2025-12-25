@@ -71,6 +71,12 @@
 
        https://colab.research.google.com/drive/19357JjkXhiu554T-UQLATSCY7rqWOWOF
 
+
+KNN Algorithom
+   ->Knn basic with iris data set ecludien and manhattan distance measure 
+
+   ->
+
        
 
   
