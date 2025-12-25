@@ -75,7 +75,7 @@
 KNN Algorithom
    ->Knn basic with iris data set ecludien and manhattan distance measure 
 
-   ->
+   ->with wine build in data set 
 
        
 
