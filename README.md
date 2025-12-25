@@ -77,6 +77,10 @@ KNN Algorithom
 
    ->with wine build in data set 
 
+
+7.Random forest algorithom 
+
+   
        
 
   
