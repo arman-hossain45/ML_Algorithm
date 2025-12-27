@@ -79,6 +79,10 @@ KNN Algorithom
 
 
 7.Random forest algorithom 
+   ->using built in brest dataset 
+   ->grid search cv using  finding best 
+   
+   parameter 
 
    
        
