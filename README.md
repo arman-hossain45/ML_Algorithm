@@ -87,6 +87,10 @@ KNN Algorithom
 
 all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4NE3SP8E4uj7mSdHQ4L?usp=sharing
 
+
+8.Adaboostring algorithom
+
+
    
        
 
