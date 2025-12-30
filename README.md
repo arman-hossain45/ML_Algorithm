@@ -90,6 +90,16 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
 8.Adaboostring algorithom
 
+  1.brest_cancer_dataset apply adaboostring algorithom 
+
+  2.apply randomforest algorithom apply ada boostring algorithom 
+
+  3.fine tuning by grid search CV for better optimaization 
+
+  
+9.gradient decent algorihom in details 
+  
+
 
    
        
