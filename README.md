@@ -98,6 +98,9 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
   
 9.gradient decent algorihom in details 
+
+10. xtream gradient boosting
+
   
 
 
