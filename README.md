@@ -101,6 +101,12 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
 10. xtream gradient boosting
 
+   *model run, traing , prediction and 
+
+   key parameters and implementation
+
+   *hyper parameter tunning , model bias ness komano 
+
   
 
 
