@@ -107,6 +107,9 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
    *hyper parameter tunning , model bias ness komano 
 
+
+11.k-means clustering algorithomm 
+
   
 
 
