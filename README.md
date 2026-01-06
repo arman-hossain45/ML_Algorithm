@@ -110,7 +110,11 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
 11.k-means clustering algorithomm 
 
-    ->
+    ->K means clustering  in Irish data set
+
+    ->elbow method to select the  K value
+
+    ->see accuracy  by using silhouette Score
   
 
 
