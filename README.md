@@ -119,7 +119,11 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
 12.Singular value decomposition (Principal component analysis (PCA))
 
-  
+    ->wine data set apply pca
+
+    -> apply logistic regression and also PCa 
+
+    -> conceptional session code (another file )
   
 
 
