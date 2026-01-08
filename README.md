@@ -108,6 +108,8 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
    *hyper parameter tunning , model bias ness komano 
 
 
+                UNSUPERVISED LEARNING ALGORITHON 
+
 11.k-means clustering algorithomm 
 
     ->K means clustering  in Irish data set
@@ -125,7 +127,7 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
     -> conceptional session code (another file )
 
-13.
+13.DBSCAN ALGORITHOM 
   
 
 
