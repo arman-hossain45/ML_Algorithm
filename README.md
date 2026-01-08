@@ -127,7 +127,14 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
     -> conceptional session code (another file )
 
-13.DBSCAN ALGORITHOM 
+13.DBSCAN ALGORITHOM (clustering algorithon)
+
+  * basic DBSCAN  algorithon
+
+  *with moon data set implementations
+
+
+14.Hierarchical Clustering implementation
   
 
 
