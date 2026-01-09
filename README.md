@@ -135,7 +135,8 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
 
 14.Hierarchical Clustering implementation
-  
+    
+    * see basic structure of hierarchical clustering
 
 
    
