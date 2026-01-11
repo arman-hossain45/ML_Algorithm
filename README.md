@@ -9,11 +9,11 @@
    
  2.Decission tree (Basic how to work )
 
-   ->simple synthetic data set use apply DT 
+    ->simple synthetic data set use apply DT 
 
-   ->plot decision tree 
+    ->plot decision tree 
 
-   ->deep decision tree 
+    ->deep decision tree 
 
    ->Pruned Decision tree 
 
@@ -90,22 +90,22 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
 
 8.Adaboostring algorithom
 
-  1.brest_cancer_dataset apply adaboostring algorithom 
+    1.brest_cancer_dataset apply adaboostring algorithom 
 
-  2.apply randomforest algorithom apply ada boostring algorithom 
+    2.apply randomforest algorithom apply ada boostring algorithom 
 
-  3.fine tuning by grid search CV for better optimaization 
+    3.fine tuning by grid search CV for better optimaization 
 
   
 9.gradient decent algorihom in details 
 
 10. xtream gradient boosting
 
-   *model run, traing , prediction and 
+    *model run, traing , prediction and 
 
-   key parameters and implementation
+    key parameters and implementation
 
-   *hyper parameter tunning , model bias ness komano 
+    *hyper parameter tunning , model bias ness komano 
 
 
                 UNSUPERVISED LEARNING ALGORITHON 
@@ -139,8 +139,7 @@ all algorithom practice :https://colab.research.google.com/drive/18EQZ9zA2KW45U4
     * see basic structure of hierarchical clustering
 
 
-   
-      p 
+ 
 
   
     
